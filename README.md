@@ -1,6 +1,6 @@
 # Jérôme Heissler · Product Engineer
 
-📍 Tours, France | ✉️ heissler.jerome@gmail.com | 🔗 https://linkedin.com/in/jeromeheissler | 🐙 https://github.com/jeromeheissler
+📍 Tours, France | 🔗 https://linkedin.com/in/jeromeheissler | 🐙 https://github.com/jeromeheissler
 
 > 💡 Ingénieur logiciel avec 15 ans d'expérience. J'ai fondé et co-fondé plusieurs produits numériques, d'un SaaS à 30 000 installations actives à une infrastructure AWS en production depuis 10 ans. Je suis le plus utile quand je peux prendre un sujet de bout en bout, du besoin métier au déploiement. Je challenge les hypothèses, je propose une solution claire, je l'itère avec l'équipe et je la livre avec un impact mesurable.
 
